@@ -36,7 +36,7 @@
 ## 📫 Contato
 
 - 📧 **lipesfsdev@gmail.com**
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-santana-dev/)
+- [![LinkedIn](www.linkedin.com/in/felipe-santana-582a6622a)
 
 ---
 
